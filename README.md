@@ -1,1 +1,2 @@
-# EONA-charter
+# EONA-charterInitializing EONA protocol.
+Coming soon.
